@@ -82,7 +82,7 @@
 }
 
 .main-content-box {
-    padding: 20px;
+    padding: 20px 20px 0px 20px;
     width: 100%;
     overflow-y: auto;
     height: calc(100vh - 40px);
@@ -135,14 +135,14 @@
 }
 .real-time-data-text {
     font-weight: 400;
-    margin-top: 35px;
+    margin-top: 24px;
     font-family: "Abhaya Libre", serif;
     font-size: 22px;
 }
 
 .camera-text {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     font-weight: 400;
     font-family: "Abhaya Libre", serif;
     font-size: 22px;

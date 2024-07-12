@@ -135,14 +135,14 @@
 }
 .real-time-data-text {
     font-weight: 400;
-    margin-top: 24px;
+    margin-top: 4px;
     font-family: "Abhaya Libre", serif;
     font-size: 22px;
 }
 
 .camera-text {
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+ 
     font-weight: 400;
     font-family: "Abhaya Libre", serif;
     font-size: 22px;
@@ -166,13 +166,13 @@
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .widget {
     width: 200px;
     background-color: #ECECEC80;
-    padding: 15px;
+    padding: 5px;
     border-radius: 16px;
     border: 1px solid #DBE5E0;
 }
